@@ -1,0 +1,42 @@
+Provided output:-
+
+London Paris Halifax quit
+100 200 300 400 -1
+
+String Queue Contents:
+London
+Paris
+Halifax
+
+Integer Queue Contents:
+100
+200
+300
+400
+
+Sample Input and output 1
+
+quit
+-1
+
+String Stack Contents:
+
+Integer Stack Contents:
+
+
+Sample input and output 2
+
+Kerala Andhra Madhya quit
+20 30 40 50 -1
+
+String Queue Contents:
+Kerala
+Andhra
+Madhya
+
+Integer Queue Contents:
+20
+30
+40
+50
+

@@ -1,0 +1,55 @@
+Given input and output
+
+London Paris Halifax quit
+100 200 300 400 -1
+
+String Stack Contents:
+Halifax
+Paris
+London
+
+Integer Stack Contents:
+400
+300
+200
+100
+
+
+Sample Input and output 1
+
+USA Canada India Japan China quit
+1 2 3 4 5 6 -1
+
+String Stack Contents:
+China
+Japan
+India
+Canada
+USA
+
+Integer Stack Contents:
+6
+5
+4
+3
+2
+1
+
+
+Sample Input and output 2
+
+Students Professors Dean Founder quit
+500 300 450 287 497 -1
+
+String Stack Contents:
+Founder
+Dean
+Professors
+Students
+
+Integer Stack Contents:
+497
+287
+450
+300
+500
